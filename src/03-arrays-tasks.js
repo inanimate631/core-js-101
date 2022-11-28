@@ -505,7 +505,7 @@ function sortCitiesArray(arr) {
  *           [0,0,0,1,0],
  *           [0,0,0,0,1]]
  */
-function getIdentityMatrix(/*n*/) {
+function getIdentityMatrix(/* n */) {
   throw new Error('Not implemented');
 }
 
